@@ -4,3 +4,35 @@
     
 }
 
+#div2 {
+    position:relative;
+    bottom: 100px;
+    left: 100px;
+    color: orange;
+    
+}
+
+#div2 > p {
+    color:black;
+}
+
+#div3 img {
+    max-height: 100px;
+    max-width: 500px;
+}
+#div4 {
+    width: 90%;
+    height: 300px;
+    background: LightSteelBlue	;
+    overflow: hidden;
+}
+
+#div5 {
+    position: relative !important;
+    width: 50%;
+    height: 70%;
+    margin-left:;
+    background: green;
+    float: right;
+    border:
+}
